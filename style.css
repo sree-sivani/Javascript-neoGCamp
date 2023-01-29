@@ -24,10 +24,10 @@ textarea{
 }
 #output{
     border : 1px solid black;
-    height : 10vh;
+    height : 5vh;
     width : 40%;
     margin : auto;
-    padding : 2rem;
+    padding : 1rem;
     margin-left : 28.6vw;
 }
 #btn-translate{
@@ -66,7 +66,7 @@ textarea{
 
 }
 footer{
-    margin-top : 5vh;
+    margin-top : 8vh;
     background-color : var(--primary);
     height : 22vh;
 }
