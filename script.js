@@ -21,7 +21,7 @@ function clickHandler(){
       var translatedText = json.contents.translated;
       outputDiv.innerText = translatedText;
    })
-   .catch(errorhandler)
+   .catch(errorHandler)
 };
 
 //server for translation
